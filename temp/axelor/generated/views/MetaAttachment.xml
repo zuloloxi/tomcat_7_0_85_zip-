@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<object-views xsi:schemaLocation="http://axelor.com/xml/ns/object-views http://axelor.com/xml/ns/object-views/object-views_3.4.xsd" xmlns="http://axelor.com/xml/ns/object-views" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <grid edit-icon="true" name="meta-attachment-grid" title="Meta attachments" model="com.axelor.meta.db.MetaAttachment">
+    <field name="objectName"/>
+    <field name="objectId"/>
+    <field name="metaFile"/>
+    <field name="archived"/>
+  </grid>
+  <form name="meta-attachment-form" title="Meta attachment" model="com.axelor.meta.db.MetaAttachment">
+    <panel title="Overview">
+      <field name="objectName"/>
+      <field name="objectId"/>
+      <field name="metaFile"/>
+      <field name="archived"/>
+    </panel>
+  </form>
+</object-views>

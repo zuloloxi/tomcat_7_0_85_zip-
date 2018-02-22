@@ -1,0 +1,300 @@
+Feb 21, 2018 7:46:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.85
+Feb 21, 2018 7:46:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Feb 7 2018 18:52:33 UTC
+Feb 21, 2018 7:46:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.85.0
+Feb 21, 2018 7:46:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 7
+Feb 21, 2018 7:46:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            6.1
+Feb 21, 2018 7:46:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          x86
+Feb 21, 2018 7:46:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             C:\Users\gozuw71\Downloads\jdk7u121\jre
+Feb 21, 2018 7:46:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.7.0_121-b15
+Feb 21, 2018 7:46:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Feb 21, 2018 7:46:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         G:\apm20180217\apache-tomcat-7.0.85
+Feb 21, 2018 7:46:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         G:\apm20180217\apache-tomcat-7.0.85
+Feb 21, 2018 7:46:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=G:\apm20180217\apache-tomcat-7.0.85\conf\logging.properties
+Feb 21, 2018 7:46:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Feb 21, 2018 7:46:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dfile.encoding=UTF-8
+Feb 21, 2018 7:46:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Xms128m
+Feb 21, 2018 7:46:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Xmx1024m
+Feb 21, 2018 7:46:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -XX:PermSize=64m
+Feb 21, 2018 7:46:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -XX:MaxPermSize=256m
+Feb 21, 2018 7:46:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Feb 21, 2018 7:46:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dignore.endorsed.dirs=
+Feb 21, 2018 7:46:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=G:\apm20180217\apache-tomcat-7.0.85
+Feb 21, 2018 7:46:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=G:\apm20180217\apache-tomcat-7.0.85
+Feb 21, 2018 7:46:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=G:\apm20180217\apache-tomcat-7.0.85\temp
+Feb 21, 2018 7:46:17 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\gozuw71\Downloads\jdk7u121\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\gozuw71\Downloads\jdk7u121\bin;C:\Users\gozuw71\Downloads\maven325\bin;C:\Program Files (x86)\Cuminas\Document Express DjVu Plug-in\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\SlikSvn\bin;C:\Program Files (x86)\Microchip\MPLAB C32 Suite\bin;C:\Program Files (x86)\Microchip860\MPLAB C32 Suite\pic32mx\binC:\Program Files (x86)\Common Files\Autodesk Shared\;C:\Program Files\Microsoft Windows Performance Toolkit\;C:\Program Files (x86)\Common Files\Autodesk Shared\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Users\gozuw71\Downloads\gettext-iconv;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;C:\Program Files (x86)\Skype\Phone\;G:\brackets170\command;C:\Users\gozuw71\Documents\;C:\Program Files\TortoiseGit\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;G:\vscode_tool15\yarn\bin;C:\Users\gozuw71\Downloads\LyX21\miktex29\miktex\bin\;C:\Users\gozuw71\Downloads\Lyx212\external\miktex\miktex\bin\;C:\Users\gozuw71\Documents\D7lite\Bin;C:\Users\gozuw71\Documents\D7lite\Projects\Bpl;C:\Users\gozuw71\Downloads\cygwin\usr\i686-pc-cygwin\bin;C:\Users\gozuw71\Downloads\cygwin\bin;C:\Users\gozuw71\AppData\Roaming\npm;C:\Users\gozuw71\downloads\MiKTeX29\miktex\bin\;C:\Users\gozuw71\AppData\Local\Yarn\bin;.
+Feb 21, 2018 7:46:17 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Feb 21, 2018 7:46:17 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Feb 21, 2018 7:46:17 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 440 ms
+Feb 21, 2018 7:46:17 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Feb 21, 2018 7:46:17 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.85
+Feb 21, 2018 7:46:17 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive G:\apm20180217\apache-tomcat-7.0.85\webapps\axelor-web-2.0.0-SNAPSHOT.war
+Feb 21, 2018 7:46:22 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Feb 21, 2018 7:46:43 PM com.sun.jersey.api.core.PackagesResourceConfig init
+INFO: Scanning for root resource and provider classes in the packages:
+  com.axelor
+Feb 21, 2018 7:46:43 PM com.sun.jersey.api.core.ScanningResourceConfig logClasses
+INFO: Root resource classes found:
+  class com.axelor.web.service.SearchService
+  class com.axelor.web.service.RestService
+  class com.axelor.web.service.FileService
+  class com.axelor.web.service.ViewService
+  class com.axelor.web.service.I18nService
+  class com.axelor.web.service.AppService
+  class com.axelor.web.service.ActionService
+Feb 21, 2018 7:46:43 PM com.sun.jersey.api.core.ScanningResourceConfig logClasses
+INFO: Provider classes found:
+  class com.axelor.web.ObjectMapperResolver
+Feb 21, 2018 7:46:43 PM com.sun.jersey.guice.spi.container.GuiceComponentProviderFactory register
+INFO: Registering com.axelor.web.service.AppService as a root resource class
+Feb 21, 2018 7:46:43 PM com.sun.jersey.guice.spi.container.GuiceComponentProviderFactory register
+INFO: Registering com.axelor.web.service.I18nService as a root resource class
+Feb 21, 2018 7:46:43 PM com.sun.jersey.guice.spi.container.GuiceComponentProviderFactory register
+INFO: Registering com.axelor.web.service.RestService as a root resource class
+Feb 21, 2018 7:46:43 PM com.sun.jersey.guice.spi.container.GuiceComponentProviderFactory register
+INFO: Registering com.axelor.web.service.FileService as a root resource class
+Feb 21, 2018 7:46:43 PM com.sun.jersey.guice.spi.container.GuiceComponentProviderFactory register
+INFO: Registering com.axelor.web.service.ActionService as a root resource class
+Feb 21, 2018 7:46:43 PM com.sun.jersey.guice.spi.container.GuiceComponentProviderFactory register
+INFO: Registering com.axelor.web.service.SearchService as a root resource class
+Feb 21, 2018 7:46:43 PM com.sun.jersey.guice.spi.container.GuiceComponentProviderFactory register
+INFO: Registering com.axelor.web.service.ViewService as a root resource class
+Feb 21, 2018 7:46:43 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.12 02/15/2012 04:51 PM'
+Feb 21, 2018 7:46:43 PM com.sun.jersey.guice.spi.container.GuiceComponentProviderFactory getComponentProvider
+INFO: Binding com.axelor.web.ObjectMapperResolver to GuiceInstantiatedComponentProvider
+Feb 21, 2018 7:46:44 PM com.sun.jersey.guice.spi.container.GuiceComponentProviderFactory getComponentProvider
+INFO: Binding com.axelor.web.service.ActionService to GuiceManagedComponentProvider with the scope "PerRequest"
+Feb 21, 2018 7:46:44 PM com.sun.jersey.guice.spi.container.GuiceComponentProviderFactory getComponentProvider
+INFO: Binding com.axelor.web.service.AppService to GuiceManagedComponentProvider with the scope "PerRequest"
+Feb 21, 2018 7:46:44 PM com.sun.jersey.guice.spi.container.GuiceComponentProviderFactory getComponentProvider
+INFO: Binding com.axelor.web.service.FileService to GuiceManagedComponentProvider with the scope "PerRequest"
+Feb 21, 2018 7:46:44 PM com.sun.jersey.guice.spi.container.GuiceComponentProviderFactory getComponentProvider
+INFO: Binding com.axelor.web.service.I18nService to GuiceManagedComponentProvider with the scope "PerRequest"
+Feb 21, 2018 7:46:44 PM com.sun.jersey.guice.spi.container.GuiceComponentProviderFactory getComponentProvider
+INFO: Binding com.axelor.web.service.RestService to GuiceManagedComponentProvider with the scope "PerRequest"
+Feb 21, 2018 7:46:44 PM com.sun.jersey.guice.spi.container.GuiceComponentProviderFactory getComponentProvider
+INFO: Binding com.axelor.web.service.SearchService to GuiceManagedComponentProvider with the scope "PerRequest"
+Feb 21, 2018 7:46:44 PM com.sun.jersey.guice.spi.container.GuiceComponentProviderFactory getComponentProvider
+INFO: Binding com.axelor.web.service.ViewService to GuiceManagedComponentProvider with the scope "PerRequest"
+Feb 21, 2018 7:46:44 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive G:\apm20180217\apache-tomcat-7.0.85\webapps\axelor-web-2.0.0-SNAPSHOT.war has finished in 26,732 ms
+Feb 21, 2018 7:46:44 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory G:\apm20180217\apache-tomcat-7.0.85\webapps\docs
+Feb 21, 2018 7:46:44 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory G:\apm20180217\apache-tomcat-7.0.85\webapps\docs has finished in 47 ms
+Feb 21, 2018 7:46:44 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory G:\apm20180217\apache-tomcat-7.0.85\webapps\examples
+Feb 21, 2018 7:46:44 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory G:\apm20180217\apache-tomcat-7.0.85\webapps\examples has finished in 185 ms
+Feb 21, 2018 7:46:44 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory G:\apm20180217\apache-tomcat-7.0.85\webapps\host-manager
+Feb 21, 2018 7:46:44 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory G:\apm20180217\apache-tomcat-7.0.85\webapps\host-manager has finished in 98 ms
+Feb 21, 2018 7:46:44 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory G:\apm20180217\apache-tomcat-7.0.85\webapps\manager
+Feb 21, 2018 7:46:44 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory G:\apm20180217\apache-tomcat-7.0.85\webapps\manager has finished in 31 ms
+Feb 21, 2018 7:46:44 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory G:\apm20180217\apache-tomcat-7.0.85\webapps\ROOT
+Feb 21, 2018 7:46:44 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory G:\apm20180217\apache-tomcat-7.0.85\webapps\ROOT has finished in 31 ms
+Feb 21, 2018 7:46:44 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Feb 21, 2018 7:46:44 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Feb 21, 2018 7:46:44 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 27280 ms
+Feb 21, 2018 7:50:07 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Feb 21, 2018 7:50:07 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Feb 21, 2018 7:50:08 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Feb 21, 2018 7:50:08 PM org.apache.catalina.loader.WebappClassLoaderBase clearReferencesJdbc
+SEVERE: The web application [/axelor-web-2.0.0-SNAPSHOT] registered the JDBC driver [org.hsqldb.jdbc.JDBCDriver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+Feb 21, 2018 7:50:08 PM org.apache.catalina.loader.WebappClassLoaderBase clearReferencesThreads
+SEVERE: The web application [/axelor-web-2.0.0-SNAPSHOT] appears to have started a thread named [com.google.inject.internal.util.$Finalizer] but has failed to stop it. This is very likely to create a memory leak.
+Feb 21, 2018 7:50:08 PM org.apache.catalina.loader.WebappClassLoaderBase clearReferencesThreads
+SEVERE: The web application [/axelor-web-2.0.0-SNAPSHOT] appears to have started a thread named [QuartzScheduler_Worker-1] but has failed to stop it. This is very likely to create a memory leak.
+Feb 21, 2018 7:50:08 PM org.apache.catalina.loader.WebappClassLoaderBase clearReferencesThreads
+SEVERE: The web application [/axelor-web-2.0.0-SNAPSHOT] appears to have started a thread named [QuartzScheduler_Worker-2] but has failed to stop it. This is very likely to create a memory leak.
+Feb 21, 2018 7:50:08 PM org.apache.catalina.loader.WebappClassLoaderBase clearReferencesThreads
+SEVERE: The web application [/axelor-web-2.0.0-SNAPSHOT] appears to have started a thread named [QuartzScheduler_Worker-3] but has failed to stop it. This is very likely to create a memory leak.
+Feb 21, 2018 7:50:08 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Feb 21, 2018 7:50:08 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Feb 21, 2018 7:50:08 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Feb 21, 2018 7:50:08 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
+Feb 21, 2018 7:50:30 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.85
+Feb 21, 2018 7:50:30 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Feb 7 2018 18:52:33 UTC
+Feb 21, 2018 7:50:30 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.85.0
+Feb 21, 2018 7:50:30 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 7
+Feb 21, 2018 7:50:30 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            6.1
+Feb 21, 2018 7:50:30 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          x86
+Feb 21, 2018 7:50:30 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             C:\Users\gozuw71\Downloads\jdk7u171\jre
+Feb 21, 2018 7:50:30 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.7.0_171-b31
+Feb 21, 2018 7:50:30 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Feb 21, 2018 7:50:30 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         G:\apm20180217\apache-tomcat-7.0.85
+Feb 21, 2018 7:50:30 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         G:\apm20180217\apache-tomcat-7.0.85
+Feb 21, 2018 7:50:30 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=G:\apm20180217\apache-tomcat-7.0.85\conf\logging.properties
+Feb 21, 2018 7:50:30 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Feb 21, 2018 7:50:30 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dfile.encoding=UTF-8
+Feb 21, 2018 7:50:30 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Xms128m
+Feb 21, 2018 7:50:30 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Xmx1024m
+Feb 21, 2018 7:50:30 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -XX:PermSize=64m
+Feb 21, 2018 7:50:30 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -XX:MaxPermSize=256m
+Feb 21, 2018 7:50:30 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Feb 21, 2018 7:50:30 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dignore.endorsed.dirs=
+Feb 21, 2018 7:50:30 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=G:\apm20180217\apache-tomcat-7.0.85
+Feb 21, 2018 7:50:30 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=G:\apm20180217\apache-tomcat-7.0.85
+Feb 21, 2018 7:50:30 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=G:\apm20180217\apache-tomcat-7.0.85\temp
+Feb 21, 2018 7:50:30 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\gozuw71\Downloads\jdk7u171\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\gozuw71\Downloads\jdk7u171\bin;C:\Users\gozuw71\Downloads\maven325\bin;C:\Users\gozuw71\Downloads\jdk7u121\bin;C:\Users\gozuw71\Downloads\maven325\bin;C:\Program Files (x86)\Cuminas\Document Express DjVu Plug-in\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\SlikSvn\bin;C:\Program Files (x86)\Microchip\MPLAB C32 Suite\bin;C:\Program Files (x86)\Microchip860\MPLAB C32 Suite\pic32mx\binC:\Program Files (x86)\Common Files\Autodesk Shared\;C:\Program Files\Microsoft Windows Performance Toolkit\;C:\Program Files (x86)\Common Files\Autodesk Shared\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Users\gozuw71\Downloads\gettext-iconv;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;C:\Program Files (x86)\Skype\Phone\;G:\brackets170\command;C:\Users\gozuw71\Documents\;C:\Program Files\TortoiseGit\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;G:\vscode_tool15\yarn\bin;C:\Users\gozuw71\Downloads\LyX21\miktex29\miktex\bin\;C:\Users\gozuw71\Downloads\Lyx212\external\miktex\miktex\bin\;C:\Users\gozuw71\Documents\D7lite\Bin;C:\Users\gozuw71\Documents\D7lite\Projects\Bpl;C:\Users\gozuw71\Downloads\cygwin\usr\i686-pc-cygwin\bin;C:\Users\gozuw71\Downloads\cygwin\bin;C:\Users\gozuw71\AppData\Roaming\npm;C:\Users\gozuw71\downloads\MiKTeX29\miktex\bin\;C:\Users\gozuw71\AppData\Local\Yarn\bin;.
+Feb 21, 2018 7:50:31 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Feb 21, 2018 7:50:31 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Feb 21, 2018 7:50:31 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 2080 ms
+Feb 21, 2018 7:50:31 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Feb 21, 2018 7:50:31 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.85
+Feb 21, 2018 7:50:31 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive G:\apm20180217\apache-tomcat-7.0.85\webapps\axelor-web-2.0.0-SNAPSHOT.war
+Feb 21, 2018 7:50:38 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Feb 21, 2018 7:50:45 PM org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+WARNING: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [131] milliseconds.
+Feb 21, 2018 7:51:01 PM com.sun.jersey.api.core.PackagesResourceConfig init
+INFO: Scanning for root resource and provider classes in the packages:
+  com.axelor
+Feb 21, 2018 7:51:01 PM com.sun.jersey.api.core.ScanningResourceConfig logClasses
+INFO: Root resource classes found:
+  class com.axelor.web.service.ViewService
+  class com.axelor.web.service.FileService
+  class com.axelor.web.service.I18nService
+  class com.axelor.web.service.AppService
+  class com.axelor.web.service.SearchService
+  class com.axelor.web.service.RestService
+  class com.axelor.web.service.ActionService
+Feb 21, 2018 7:51:01 PM com.sun.jersey.api.core.ScanningResourceConfig logClasses
+INFO: Provider classes found:
+  class com.axelor.web.ObjectMapperResolver
+Feb 21, 2018 7:51:01 PM com.sun.jersey.guice.spi.container.GuiceComponentProviderFactory register
+INFO: Registering com.axelor.web.service.AppService as a root resource class
+Feb 21, 2018 7:51:01 PM com.sun.jersey.guice.spi.container.GuiceComponentProviderFactory register
+INFO: Registering com.axelor.web.service.I18nService as a root resource class
+Feb 21, 2018 7:51:01 PM com.sun.jersey.guice.spi.container.GuiceComponentProviderFactory register
+INFO: Registering com.axelor.web.service.RestService as a root resource class
+Feb 21, 2018 7:51:01 PM com.sun.jersey.guice.spi.container.GuiceComponentProviderFactory register
+INFO: Registering com.axelor.web.service.FileService as a root resource class
+Feb 21, 2018 7:51:01 PM com.sun.jersey.guice.spi.container.GuiceComponentProviderFactory register
+INFO: Registering com.axelor.web.service.ActionService as a root resource class
+Feb 21, 2018 7:51:01 PM com.sun.jersey.guice.spi.container.GuiceComponentProviderFactory register
+INFO: Registering com.axelor.web.service.SearchService as a root resource class
+Feb 21, 2018 7:51:01 PM com.sun.jersey.guice.spi.container.GuiceComponentProviderFactory register
+INFO: Registering com.axelor.web.service.ViewService as a root resource class
+Feb 21, 2018 7:51:01 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.12 02/15/2012 04:51 PM'
+Feb 21, 2018 7:51:01 PM com.sun.jersey.guice.spi.container.GuiceComponentProviderFactory getComponentProvider
+INFO: Binding com.axelor.web.ObjectMapperResolver to GuiceInstantiatedComponentProvider
+Feb 21, 2018 7:51:01 PM com.sun.jersey.guice.spi.container.GuiceComponentProviderFactory getComponentProvider
+INFO: Binding com.axelor.web.service.ActionService to GuiceManagedComponentProvider with the scope "PerRequest"
+Feb 21, 2018 7:51:01 PM com.sun.jersey.guice.spi.container.GuiceComponentProviderFactory getComponentProvider
+INFO: Binding com.axelor.web.service.AppService to GuiceManagedComponentProvider with the scope "PerRequest"
+Feb 21, 2018 7:51:01 PM com.sun.jersey.guice.spi.container.GuiceComponentProviderFactory getComponentProvider
+INFO: Binding com.axelor.web.service.FileService to GuiceManagedComponentProvider with the scope "PerRequest"
+Feb 21, 2018 7:51:01 PM com.sun.jersey.guice.spi.container.GuiceComponentProviderFactory getComponentProvider
+INFO: Binding com.axelor.web.service.I18nService to GuiceManagedComponentProvider with the scope "PerRequest"
+Feb 21, 2018 7:51:01 PM com.sun.jersey.guice.spi.container.GuiceComponentProviderFactory getComponentProvider
+INFO: Binding com.axelor.web.service.RestService to GuiceManagedComponentProvider with the scope "PerRequest"
+Feb 21, 2018 7:51:01 PM com.sun.jersey.guice.spi.container.GuiceComponentProviderFactory getComponentProvider
+INFO: Binding com.axelor.web.service.SearchService to GuiceManagedComponentProvider with the scope "PerRequest"
+Feb 21, 2018 7:51:02 PM com.sun.jersey.guice.spi.container.GuiceComponentProviderFactory getComponentProvider
+INFO: Binding com.axelor.web.service.ViewService to GuiceManagedComponentProvider with the scope "PerRequest"
+Feb 21, 2018 7:51:02 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive G:\apm20180217\apache-tomcat-7.0.85\webapps\axelor-web-2.0.0-SNAPSHOT.war has finished in 30,300 ms
+Feb 21, 2018 7:51:02 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory G:\apm20180217\apache-tomcat-7.0.85\webapps\docs
+Feb 21, 2018 7:51:02 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory G:\apm20180217\apache-tomcat-7.0.85\webapps\docs has finished in 62 ms
+Feb 21, 2018 7:51:02 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory G:\apm20180217\apache-tomcat-7.0.85\webapps\examples
+Feb 21, 2018 7:51:02 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory G:\apm20180217\apache-tomcat-7.0.85\webapps\examples has finished in 343 ms
+Feb 21, 2018 7:51:02 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory G:\apm20180217\apache-tomcat-7.0.85\webapps\host-manager
+Feb 21, 2018 7:51:02 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory G:\apm20180217\apache-tomcat-7.0.85\webapps\host-manager has finished in 174 ms
+Feb 21, 2018 7:51:02 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory G:\apm20180217\apache-tomcat-7.0.85\webapps\manager
+Feb 21, 2018 7:51:02 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory G:\apm20180217\apache-tomcat-7.0.85\webapps\manager has finished in 46 ms
+Feb 21, 2018 7:51:02 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory G:\apm20180217\apache-tomcat-7.0.85\webapps\ROOT
+Feb 21, 2018 7:51:02 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory G:\apm20180217\apache-tomcat-7.0.85\webapps\ROOT has finished in 39 ms
+Feb 21, 2018 7:51:02 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Feb 21, 2018 7:51:02 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Feb 21, 2018 7:51:02 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 31167 ms

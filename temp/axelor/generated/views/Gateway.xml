@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<object-views xsi:schemaLocation="http://axelor.com/xml/ns/object-views http://axelor.com/xml/ns/object-views/object-views_3.4.xsd" xmlns="http://axelor.com/xml/ns/object-views" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <grid edit-icon="true" name="gateway-grid" title="Gateways" model="com.axelor.wkf.db.Gateway">
+    <field name="operator"/>
+    <field name="archived"/>
+    <field name="action"/>
+    <field name="description"/>
+    <field name="ref"/>
+    <field name="type"/>
+    <field name="name"/>
+  </grid>
+  <form name="gateway-form" title="Gateway" model="com.axelor.wkf.db.Gateway">
+    <panel title="Overview">
+      <field name="operator"/>
+      <field name="archived"/>
+      <field name="action"/>
+      <field name="description"/>
+      <field name="ref"/>
+      <field name="type"/>
+      <field name="name"/>
+    </panel>
+    <panel-related field="endTransitions" target="com.axelor.wkf.db.Transition">
+      <field name="name"/>
+    </panel-related>
+    <panel-related field="startTransitions" target="com.axelor.wkf.db.Transition">
+      <field name="name"/>
+    </panel-related>
+  </form>
+</object-views>

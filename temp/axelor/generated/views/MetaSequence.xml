@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<object-views xsi:schemaLocation="http://axelor.com/xml/ns/object-views http://axelor.com/xml/ns/object-views/object-views_3.4.xsd" xmlns="http://axelor.com/xml/ns/object-views" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <grid edit-icon="true" name="meta-sequence-grid" title="Meta sequences" model="com.axelor.meta.db.MetaSequence">
+    <field name="name"/>
+    <field name="prefix"/>
+    <field name="suffix"/>
+    <field name="padding"/>
+    <field name="increment"/>
+    <field name="initial"/>
+    <field name="next"/>
+    <field name="archived"/>
+  </grid>
+  <form name="meta-sequence-form" title="Meta sequence" model="com.axelor.meta.db.MetaSequence">
+    <panel title="Overview">
+      <field name="name"/>
+      <field name="prefix"/>
+      <field name="suffix"/>
+      <field name="padding"/>
+      <field name="increment"/>
+      <field name="initial"/>
+      <field name="next"/>
+      <field name="archived"/>
+    </panel>
+  </form>
+</object-views>

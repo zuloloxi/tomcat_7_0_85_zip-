@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<object-views xsi:schemaLocation="http://axelor.com/xml/ns/object-views http://axelor.com/xml/ns/object-views/object-views_3.4.xsd" xmlns="http://axelor.com/xml/ns/object-views" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <grid edit-icon="true" name="meta-filter-grid" title="Meta filters" model="com.axelor.meta.db.MetaFilter">
+    <field name="name"/>
+    <field name="title"/>
+    <field name="filters"/>
+    <field name="filterCustom"/>
+    <field name="filterView"/>
+    <field name="shared"/>
+    <field name="user"/>
+    <field name="archived"/>
+  </grid>
+  <form name="meta-filter-form" title="Meta filter" model="com.axelor.meta.db.MetaFilter">
+    <panel title="Overview">
+      <field name="name"/>
+      <field name="title"/>
+      <field name="filters"/>
+      <field name="filterCustom"/>
+      <field name="filterView"/>
+      <field name="shared"/>
+      <field name="user"/>
+      <field name="archived"/>
+    </panel>
+  </form>
+</object-views>
